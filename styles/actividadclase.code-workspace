@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "../../MiPrimerSitioWeb"
+		},
+		{
+			"path": ".."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "actividad2Web"
+	}
+}
